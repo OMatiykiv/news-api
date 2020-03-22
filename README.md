@@ -1,5 +1,19 @@
 # News
 
+News from this program was obtained with the help of https://newsapi.org
+
+## Installation
+
+1. `git clone https://github.com/OMatiykiv/news-api.git`
+2. `cd news`
+3. `npm install`
+
+## Authentication
+
+For getting access to `profile` page you must go through [firebase](https://console.firebase.google.com/) authentication
+
+## Angular CLI
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 ## Development server
